@@ -20,9 +20,9 @@ export default function Navbar() {
       animate={controls}
     >
       <div className="brand__container">
-        <a href="#" className="logoz">
+        <div className="logoz">
          Babra
-        </a>
+        </div>
         <div className="toggle">
           {isNavOpen ? (
             <MdClose onClick={() => setIsNavOpen(false)} />

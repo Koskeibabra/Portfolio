@@ -36,8 +36,7 @@ function Portfolio() {
         >
           <a
                     className=""
-                    target="_blank"
-                    rel="noopener"
+
                     href="https://xd.adobe.com/view/e1f2267a-6b04-4f3c-8b73-e552b1e3d72d-b4a1/?fullscreen"
                   >
           <img src={placeholder} alt="placeholder" /></a>
@@ -55,8 +54,7 @@ function Portfolio() {
         > 
                   <a
                     className=""
-                    target="_blank"
-                    rel="noopener"
+
                     href="https://xd.adobe.com/view/6a7a6f9e-0408-457c-ad4a-a7b89ed59a5c-3f29/screen/ce20ab0f-4ab5-4bbb-908b-451b9af616dd/"
                   >
           <img src={placeholder} alt="placeholder" /></a>
@@ -74,8 +72,6 @@ function Portfolio() {
         >
                     <a
                     className=""
-                    target="_blank"
-                    rel="noopener"
                     href="https://beta.paylend.africa/"
                   >
           <img src={placeholder} alt="placeholder" /></a>
@@ -93,8 +89,6 @@ function Portfolio() {
         >
                               <a
                     className=""
-                    target="_blank"
-                    rel="noopener"
                     href="https://www.figma.com/proto/YLMNdjyteFQbGOlF5V3RIE/HAIL?node-id=33%3A6&scaling=scale-down&page-id=0%3A1&starting-point-node-id=33%3A6"
                   >
           <img src={placeholder} alt="placeholder" /></a>
@@ -113,8 +107,6 @@ function Portfolio() {
 
                   <a
                     className=""
-                    target="_blank"
-                    rel="noopener"
                     href="https://www.figma.com/proto/siRAPvAOU7DIVoVXeAWsut/Ryder-app-design?node-id=2%3A49&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A49"
                   >
           <img src={placeholder} alt="placeholder" /></a>
@@ -132,8 +124,6 @@ function Portfolio() {
         >
                      <a
                     className=""
-                    target="_blank"
-                    rel="noopener"
                     href="https://www.figma.com/file/26MSvEZcRT6UjYj2bxo4v3/Churpy-web-re-vamp?node-id=12%3A2"
                   >
           <img src={placeholder} alt="placeholder" /></a>
@@ -151,8 +141,6 @@ function Portfolio() {
         >
          <a
                     className=""
-                    target="_blank"
-                    rel="noopener"
                     href="https://www.figma.com/file/R5ivuzGs30639i9lsYDDSM/Mobile-App-wireframe?node-id=35%3A0"
                   >
           <img src={placeholder} alt="placeholder" /></a>
@@ -169,10 +157,9 @@ function Portfolio() {
           viewport={{ once: true }}
         >
                    <a
-                    className="https://www.figma.com/proto/ZSP0Gnwc8YaJ9aXw09Ga3M/Hotel-booking-App?node-id=3%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2"
-                    target="_blank"
-                    rel="noopener"
-                    href=""
+                    className=""
+
+                    href="https://www.figma.com/proto/ZSP0Gnwc8YaJ9aXw09Ga3M/Hotel-booking-App?node-id=3%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A2"
                   >
           <img src={placeholder} alt="placeholder" /></a>
         </motion.div>

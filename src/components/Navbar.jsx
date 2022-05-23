@@ -21,7 +21,7 @@ export default function Navbar() {
       animate={controls}
     >
       <div className="brand__container">
-        <a href="#" className="active">
+        <a href="#" className="logoz">
          Babra
         </a>
         <div className="toggle">
@@ -76,6 +76,12 @@ const Nav = styled(motion.nav)`
     .toggle {
       display: none;
     }
+  }
+  .logoz{
+    list-style:none;
+    color:white;
+    text-decoration:none;
+    font-size: 30px;
   }
   .links {
     ul {

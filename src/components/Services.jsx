@@ -23,7 +23,7 @@ function Services() {
     },
     {
       type: "UX Research",
-      text: "Feedback is an important part of design. I participate in usability testing and implementing user feedback in order to improve the spftware feel.",
+      text: "Feedback is an important part of design. I participate in usability testing and implementing user feedback in order to improve the Software feel.",
       image: service3,
     },
   ];
